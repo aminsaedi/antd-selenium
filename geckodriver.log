@@ -1,0 +1,712 @@
+1666290848024	geckodriver	INFO	Listening on 127.0.0.1:37491
+1666290848069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDaAmuT"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666290848622	Marionette	INFO	Marionette enabled
+1666290848626	Marionette	INFO	Listening on port 36847
+Read port: 36847
+WebDriver BiDi listening on ws://127.0.0.1:35823
+1666290848735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDaAmuT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35823/devtools/browser/f74396ac-2536-4443-b4e3-d339907fa33a
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666290854551	Marionette	INFO	Stopped listening on port 36847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666290880130	geckodriver	INFO	Listening on 127.0.0.1:38915
+1666290880176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIbEHZm"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666290880670	Marionette	INFO	Marionette enabled
+1666290880674	Marionette	INFO	Listening on port 38261
+Read port: 38261
+WebDriver BiDi listening on ws://127.0.0.1:58983
+1666290880775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIbEHZm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58983/devtools/browser/409f9300-2f27-4b9f-8b91-2dd72e2ecf56
+1666290882554	Marionette	INFO	Stopped listening on port 38261
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354061857	geckodriver	INFO	Listening on 127.0.0.1:36341
+1666354061908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9NbPhu"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666354062422	Marionette	INFO	Marionette enabled
+1666354062426	Marionette	INFO	Listening on port 38727
+WebDriver BiDi listening on ws://127.0.0.1:55881
+Read port: 38727
+1666354062631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9NbPhu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55881/devtools/browser/60721b1b-ae91-4942-97b1-7749db734d36
+1666354064482	Marionette	INFO	Stopped listening on port 38727
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354291289	geckodriver	INFO	Listening on 127.0.0.1:41267
+1666354291338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKgElDG"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666354291830	Marionette	INFO	Marionette enabled
+1666354291834	Marionette	INFO	Listening on port 42603
+Read port: 42603
+WebDriver BiDi listening on ws://127.0.0.1:48127
+1666354291932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKgElDG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48127/devtools/browser/2de28ca5-d086-4dd1-9e50-7d399ed43d53
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354306157	Marionette	INFO	Stopped listening on port 42603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666354363002	geckodriver	INFO	Listening on 127.0.0.1:37253
+1666354363048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile58K9Gi"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666354363540	Marionette	INFO	Marionette enabled
+1666354363545	Marionette	INFO	Listening on port 45265
+Read port: 45265
+WebDriver BiDi listening on ws://127.0.0.1:45247
+1666354363651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile58K9Gi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45247/devtools/browser/123bfd40-ae90-4395-b747-456e6c2eeab0
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354369819	Marionette	INFO	Stopped listening on port 45265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666354397717	geckodriver	INFO	Listening on 127.0.0.1:35633
+1666354397764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRk9rTP"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666354398250	Marionette	INFO	Marionette enabled
+1666354398254	Marionette	INFO	Listening on port 38927
+Read port: 38927
+WebDriver BiDi listening on ws://127.0.0.1:35097
+1666354398352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRk9rTP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35097/devtools/browser/64671a83-cec2-4622-aeee-bcee45e2fd8f
+1666354400225	Marionette	INFO	Stopped listening on port 38927
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354430106	geckodriver	INFO	Listening on 127.0.0.1:37085
+1666354430151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0KM5YX"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666354430639	Marionette	INFO	Marionette enabled
+1666354430643	Marionette	INFO	Listening on port 39875
+Read port: 39875
+WebDriver BiDi listening on ws://127.0.0.1:53847
+1666354430740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0KM5YX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53847/devtools/browser/1c3d7bd3-f7c1-4896-a3b9-5620de5d1510
+1666354432563	Marionette	INFO	Stopped listening on port 39875
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354455349	geckodriver	INFO	Listening on 127.0.0.1:39723
+1666354455393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC2rs49"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666354455890	Marionette	INFO	Marionette enabled
+1666354455894	Marionette	INFO	Listening on port 37549
+Read port: 37549
+WebDriver BiDi listening on ws://127.0.0.1:38419
+1666354455992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC2rs49/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38419/devtools/browser/c02eaad9-161c-4e5c-8995-33e276be7c0e
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354475287	Marionette	INFO	Stopped listening on port 37549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666354488974	geckodriver	INFO	Listening on 127.0.0.1:43479
+1666354489019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezpPdQs"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666354489498	Marionette	INFO	Marionette enabled
+1666354489501	Marionette	INFO	Listening on port 36087
+Read port: 36087
+WebDriver BiDi listening on ws://127.0.0.1:54831
+1666354489614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezpPdQs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54831/devtools/browser/2f71b22b-d7af-4967-bd0e-75525e11c8b6
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354528675	Marionette	INFO	Stopped listening on port 36087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666354697195	geckodriver	INFO	Listening on 127.0.0.1:57691
+1666354697239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLdgThg"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666354697715	Marionette	INFO	Marionette enabled
+1666354697719	Marionette	INFO	Listening on port 41569
+Read port: 41569
+WebDriver BiDi listening on ws://127.0.0.1:40541
+1666354697829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLdgThg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40541/devtools/browser/069b86d5-9c7b-4c10-8a30-0bcf8b1b4c3b
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666354723102	Marionette	INFO	Stopped listening on port 41569
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666356059328	geckodriver	INFO	Listening on 127.0.0.1:32963
+1666356059380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex0EF7n"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356059875	Marionette	INFO	Marionette enabled
+1666356059879	Marionette	INFO	Listening on port 36755
+Read port: 36755
+WebDriver BiDi listening on ws://127.0.0.1:56171
+1666356059978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex0EF7n/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56171/devtools/browser/12bcc0ef-6b54-4fb8-a649-c87d86e44456
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356223009	Marionette	INFO	Stopped listening on port 36755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666356249575	geckodriver	INFO	Listening on 127.0.0.1:34381
+1666356249622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDVuhmQ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356250115	Marionette	INFO	Marionette enabled
+1666356250118	Marionette	INFO	Listening on port 33745
+Read port: 33745
+WebDriver BiDi listening on ws://127.0.0.1:56621
+1666356250215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDVuhmQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56621/devtools/browser/1fe6e646-bb59-4485-b5b4-de69d378b0d9
+1666356252044	Marionette	INFO	Stopped listening on port 33745
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356275466	geckodriver	INFO	Listening on 127.0.0.1:59931
+1666356275511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled3SldE"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356276019	Marionette	INFO	Marionette enabled
+1666356276023	Marionette	INFO	Listening on port 40187
+WebDriver BiDi listening on ws://127.0.0.1:55581
+Read port: 40187
+1666356276278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled3SldE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55581/devtools/browser/64ba3365-c548-431f-9efc-57a486eb32f6
+1666356277915	Marionette	INFO	Stopped listening on port 40187
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356315199	geckodriver	INFO	Listening on 127.0.0.1:53115
+1666356315249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN5tvYR"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356315752	Marionette	INFO	Marionette enabled
+1666356315756	Marionette	INFO	Listening on port 36517
+WebDriver BiDi listening on ws://127.0.0.1:59537
+Read port: 36517
+1666356316012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN5tvYR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59537/devtools/browser/18f62cd9-f8f7-492a-92dd-b180f802c746
+1666356317706	Marionette	INFO	Stopped listening on port 36517
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356398452	geckodriver	INFO	Listening on 127.0.0.1:52049
+1666356398498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled3r023"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356398996	Marionette	INFO	Marionette enabled
+1666356399000	Marionette	INFO	Listening on port 43147
+WebDriver BiDi listening on ws://127.0.0.1:41341
+Read port: 43147
+1666356399266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled3r023/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41341/devtools/browser/afb0c457-89e3-40b6-816b-b84d7058530f
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356407378	Marionette	INFO	Stopped listening on port 43147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666356481369	geckodriver	INFO	Listening on 127.0.0.1:57367
+1666356481418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8zTocr"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356481908	Marionette	INFO	Marionette enabled
+1666356481912	Marionette	INFO	Listening on port 33693
+Read port: 33693
+WebDriver BiDi listening on ws://127.0.0.1:41973
+1666356482010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8zTocr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41973/devtools/browser/74acbf9f-7a43-4383-9090-d6aafe275a05
+1666356483780	Marionette	INFO	Stopped listening on port 33693
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356524095	geckodriver	INFO	Listening on 127.0.0.1:60997
+1666356524139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebP5kzC"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356524616	Marionette	INFO	Marionette enabled
+1666356524620	Marionette	INFO	Listening on port 41997
+Read port: 41997
+WebDriver BiDi listening on ws://127.0.0.1:40039
+1666356524717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebP5kzC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40039/devtools/browser/4868f8a3-f1e4-4204-8e89-b4f900781af1
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356531212	Marionette	INFO	Stopped listening on port 41997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666356546090	geckodriver	INFO	Listening on 127.0.0.1:44719
+1666356546135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEfelUs"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356546611	Marionette	INFO	Marionette enabled
+1666356546614	Marionette	INFO	Listening on port 33633
+Read port: 33633
+WebDriver BiDi listening on ws://127.0.0.1:43341
+1666356546711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEfelUs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43341/devtools/browser/26b1db05-f048-41d4-bd0e-3470a104671d
+1666356548558	Marionette	INFO	Stopped listening on port 33633
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356815683	geckodriver	INFO	Listening on 127.0.0.1:55497
+1666356815732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKDy4wQ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356816224	Marionette	INFO	Marionette enabled
+1666356816227	Marionette	INFO	Listening on port 36583
+Read port: 36583
+WebDriver BiDi listening on ws://127.0.0.1:55821
+1666356816324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKDy4wQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55821/devtools/browser/d64e9342-de6d-4172-8b50-868b0d6c96c7
+1666356818100	Marionette	INFO	Stopped listening on port 36583
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356826446	geckodriver	INFO	Listening on 127.0.0.1:40513
+1666356826492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAPYdHv"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356826970	Marionette	INFO	Marionette enabled
+1666356826974	Marionette	INFO	Listening on port 42455
+Read port: 42455
+WebDriver BiDi listening on ws://127.0.0.1:57771
+1666356827071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAPYdHv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57771/devtools/browser/de3f7faf-62c3-4789-a9a2-951eef69192d
+1666356828891	Marionette	INFO	Stopped listening on port 42455
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356851159	geckodriver	INFO	Listening on 127.0.0.1:60403
+1666356851203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJCumxU"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356851691	Marionette	INFO	Marionette enabled
+1666356851695	Marionette	INFO	Listening on port 42841
+Read port: 42841
+WebDriver BiDi listening on ws://127.0.0.1:48875
+1666356851794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJCumxU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48875/devtools/browser/24327d35-eefd-462f-89af-862f4a6f47cd
+1666356853594	Marionette	INFO	Stopped listening on port 42841
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356889077	geckodriver	INFO	Listening on 127.0.0.1:58583
+1666356889121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0FWs4l"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356889600	Marionette	INFO	Marionette enabled
+1666356889604	Marionette	INFO	Listening on port 41201
+Read port: 41201
+WebDriver BiDi listening on ws://127.0.0.1:48027
+1666356889721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0FWs4l/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48027/devtools/browser/2e134996-ebe1-433e-90c1-d321b0df24ad
+1666356891497	Marionette	INFO	Stopped listening on port 41201
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666356902034	geckodriver	INFO	Listening on 127.0.0.1:43801
+1666356902077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekHwAe9"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666356902563	Marionette	INFO	Marionette enabled
+1666356902567	Marionette	INFO	Listening on port 42853
+Read port: 42853
+WebDriver BiDi listening on ws://127.0.0.1:54789
+1666356902692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekHwAe9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54789/devtools/browser/5bc3dde9-33c9-4b99-a028-18131edda0c1
+1666356904576	Marionette	INFO	Stopped listening on port 42853
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666357701874	geckodriver	INFO	Listening on 127.0.0.1:37387
+1666357701924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej8zF6W"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666357702405	Marionette	INFO	Marionette enabled
+1666357702409	Marionette	INFO	Listening on port 42219
+Read port: 42219
+WebDriver BiDi listening on ws://127.0.0.1:57115
+1666357702518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej8zF6W/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57115/devtools/browser/aad6e88b-eac7-4a45-b529-63231926636e
+1666357704378	Marionette	INFO	Stopped listening on port 42219
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666357725142	geckodriver	INFO	Listening on 127.0.0.1:51901
+1666357725188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewT1NHb"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666357725667	Marionette	INFO	Marionette enabled
+1666357725670	Marionette	INFO	Listening on port 40923
+Read port: 40923
+WebDriver BiDi listening on ws://127.0.0.1:52789
+1666357725769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewT1NHb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52789/devtools/browser/8bedb40b-320b-49eb-b67c-c45bfc6d8e6a
+1666357727669	Marionette	INFO	Stopped listening on port 40923
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666358219286	geckodriver	INFO	Listening on 127.0.0.1:34323
+1666358219337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileigDAMN"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666358219836	Marionette	INFO	Marionette enabled
+1666358219839	Marionette	INFO	Listening on port 42657
+WebDriver BiDi listening on ws://127.0.0.1:50523
+Read port: 42657
+1666358220102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileigDAMN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50523/devtools/browser/cb97ba5b-afee-4eec-b309-1a0f7779f77e
+1666358221886	Marionette	INFO	Stopped listening on port 42657
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666358640408	geckodriver	INFO	Listening on 127.0.0.1:38579
+1666358640457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilengjjqY"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666358640936	Marionette	INFO	Marionette enabled
+1666358640940	Marionette	INFO	Listening on port 37407
+Read port: 37407
+WebDriver BiDi listening on ws://127.0.0.1:51365
+1666358641037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilengjjqY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51365/devtools/browser/d5a6f1bd-f3fe-4fb9-b607-7b7a32e8cc51
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666358649028	Marionette	INFO	Stopped listening on port 37407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666358663329	geckodriver	INFO	Listening on 127.0.0.1:37035
+1666358663381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilep7EZFN"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666358663884	Marionette	INFO	Marionette enabled
+1666358663887	Marionette	INFO	Listening on port 36161
+WebDriver BiDi listening on ws://127.0.0.1:48069
+Read port: 36161
+1666358664159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep7EZFN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48069/devtools/browser/64484777-a639-4152-b612-d69db5df3f54
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666358671544	Marionette	INFO	Stopped listening on port 36161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666358836141	geckodriver	INFO	Listening on 127.0.0.1:50767
+1666358836186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileADTFpq"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666358836669	Marionette	INFO	Marionette enabled
+1666358836673	Marionette	INFO	Listening on port 36629
+Read port: 36629
+WebDriver BiDi listening on ws://127.0.0.1:42567
+1666358836770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileADTFpq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42567/devtools/browser/1d7c3af8-0614-4000-8547-acb6684b1969
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666358845297	Marionette	INFO	Stopped listening on port 36629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666358889581	geckodriver	INFO	Listening on 127.0.0.1:42075
+1666358889625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5yI2G0"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666358890105	Marionette	INFO	Marionette enabled
+1666358890109	Marionette	INFO	Listening on port 43785
+Read port: 43785
+WebDriver BiDi listening on ws://127.0.0.1:49861
+1666358890206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5yI2G0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49861/devtools/browser/ffa6e7e8-a575-4524-9c41-fd49157ccbcc
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666358915667	Marionette	INFO	Stopped listening on port 43785
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666358939700	geckodriver	INFO	Listening on 127.0.0.1:36539
+1666358939744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelJk9qf"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666358940221	Marionette	INFO	Marionette enabled
+1666358940224	Marionette	INFO	Listening on port 46785
+Read port: 46785
+WebDriver BiDi listening on ws://127.0.0.1:41991
+1666358940322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelJk9qf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41991/devtools/browser/801e6915-18bc-4525-ab05-da336f6c389e
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666358953291	Marionette	INFO	Stopped listening on port 46785
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666358966368	geckodriver	INFO	Listening on 127.0.0.1:51931
+1666358966412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVhd9Ki"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666358966888	Marionette	INFO	Marionette enabled
+1666358966891	Marionette	INFO	Listening on port 42007
+Read port: 42007
+WebDriver BiDi listening on ws://127.0.0.1:45941
+1666358966989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVhd9Ki/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45941/devtools/browser/83062239-3d37-46bf-9d94-771ff06a01c3
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666358980561	Marionette	INFO	Stopped listening on port 42007
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666358999466	geckodriver	INFO	Listening on 127.0.0.1:58943
+1666358999515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqVghcU"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666358999997	Marionette	INFO	Marionette enabled
+1666359000000	Marionette	INFO	Listening on port 40281
+Read port: 40281
+WebDriver BiDi listening on ws://127.0.0.1:45965
+1666359000097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqVghcU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45965/devtools/browser/72d62e22-b262-462f-b0a8-67d3f824af7c
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666359010271	Marionette	INFO	Stopped listening on port 40281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666359061129	geckodriver	INFO	Listening on 127.0.0.1:59873
+1666359061175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJksEhV"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666359061671	Marionette	INFO	Marionette enabled
+1666359061675	Marionette	INFO	Listening on port 40987
+Read port: 40987
+WebDriver BiDi listening on ws://127.0.0.1:50921
+1666359061773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJksEhV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50921/devtools/browser/9b6fd8c0-6767-4bd5-b0d9-6b4051049b10
+1666359072775	Marionette	INFO	Stopped listening on port 40987
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666359856176	geckodriver	INFO	Listening on 127.0.0.1:35483
+1666359856228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile85sjS8"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666359856744	Marionette	INFO	Marionette enabled
+1666359856748	Marionette	INFO	Listening on port 34803
+WebDriver BiDi listening on ws://127.0.0.1:54967
+Read port: 34803
+1666359856950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile85sjS8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54967/devtools/browser/4ce8c0eb-1879-4fc8-8e43-cd9ffec94c46
+1666359867897	Marionette	INFO	Stopped listening on port 34803
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666360562332	geckodriver	INFO	Listening on 127.0.0.1:48495
+1666360562382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexNy8fP"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666360562880	Marionette	INFO	Marionette enabled
+1666360562883	Marionette	INFO	Listening on port 37651
+WebDriver BiDi listening on ws://127.0.0.1:53087
+Read port: 37651
+1666360563139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexNy8fP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53087/devtools/browser/dfdb4035-1604-450e-b66c-2e89fc1b5bff
+1666360574353	Marionette	INFO	Stopped listening on port 37651
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666361209728	geckodriver	INFO	Listening on 127.0.0.1:59981
+1666361209778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyOIEnH"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666361210278	Marionette	INFO	Marionette enabled
+1666361210282	Marionette	INFO	Listening on port 37371
+WebDriver BiDi listening on ws://127.0.0.1:54373
+Read port: 37371
+1666361210540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyOIEnH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54373/devtools/browser/3ec08c90-aa97-4b8b-9415-5d434659a6e5
+1666361262693	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361263546	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361264409	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361265266	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361266111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361266992	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361267839	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361268681	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361269551	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666361270459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666361341193	geckodriver	INFO	Listening on 127.0.0.1:42739
+1666361341261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0XT6h9"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666361341747	Marionette	INFO	Marionette enabled
+1666361341751	Marionette	INFO	Listening on port 39249
+Read port: 39249
+WebDriver BiDi listening on ws://127.0.0.1:55801
+1666361341847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0XT6h9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55801/devtools/browser/9d9081a6-9350-4ba9-8b68-e57a059fc8ab
+1666361395015	Marionette	INFO	Stopped listening on port 39249
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666362636011	geckodriver	INFO	Listening on 127.0.0.1:42345
+1666362636061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIBXypk"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666362636576	Marionette	INFO	Marionette enabled
+1666362636580	Marionette	INFO	Listening on port 40957
+WebDriver BiDi listening on ws://127.0.0.1:44407
+Read port: 40957
+1666362636779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIBXypk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44407/devtools/browser/758c584b-8002-4174-a6ce-9eee17bf9a0f
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666362651785	Marionette	INFO	Stopped listening on port 40957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666362667483	geckodriver	INFO	Listening on 127.0.0.1:52717
+1666362667529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegNgz6h"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666362668004	Marionette	INFO	Marionette enabled
+1666362668007	Marionette	INFO	Listening on port 40615
+Read port: 40615
+WebDriver BiDi listening on ws://127.0.0.1:54663
+1666362668104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegNgz6h/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54663/devtools/browser/f7e97ddd-9bf8-4af1-bf4e-aa3061b3c3c9
+1666362723672	Marionette	INFO	Stopped listening on port 40615
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666363020009	geckodriver	INFO	Listening on 127.0.0.1:57089
+1666363020092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepe388Z"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666363020906	Marionette	INFO	Marionette enabled
+1666363020911	Marionette	INFO	Listening on port 33403
+Read port: 33403
+WebDriver BiDi listening on ws://127.0.0.1:55935
+1666363021062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepe388Z/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55935/devtools/browser/60bb0187-76f8-4046-8edd-da89fe207bab
+1666363065038	Marionette	INFO	Stopped listening on port 33403
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666364260733	geckodriver	INFO	Listening on 127.0.0.1:55943
+1666364261307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT8w81h"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666364261829	Marionette	INFO	Marionette enabled
+1666364261835	Marionette	INFO	Listening on port 43373
+Read port: 43373
+WebDriver BiDi listening on ws://127.0.0.1:38987
+1666364261961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT8w81h/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38987/devtools/browser/50f40346-b99a-488f-bbfb-911e20943eed
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666364276497	Marionette	INFO	Stopped listening on port 43373
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666364307935	geckodriver	INFO	Listening on 127.0.0.1:38967
+1666364307984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBF4coY"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666364308464	Marionette	INFO	Marionette enabled
+1666364308467	Marionette	INFO	Listening on port 37015
+Read port: 37015
+WebDriver BiDi listening on ws://127.0.0.1:58315
+1666364308563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBF4coY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58315/devtools/browser/e776a6f4-346d-4cd3-b187-3c1d11f839d9
+1666364353951	Marionette	INFO	Stopped listening on port 37015
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666364403717	geckodriver	INFO	Listening on 127.0.0.1:60935
+1666364403764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ5kVUU"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666364404293	Marionette	INFO	Marionette enabled
+1666364404297	Marionette	INFO	Listening on port 36719
+WebDriver BiDi listening on ws://127.0.0.1:41485
+Read port: 36719
+1666364404411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ5kVUU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41485/devtools/browser/8095d13c-2ccf-44f6-8dc7-f0c27dab2750
+1666364447386	Marionette	INFO	Stopped listening on port 36719
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666364968281	geckodriver	INFO	Listening on 127.0.0.1:41915
+1666364968330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaevxux"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666364968825	Marionette	INFO	Marionette enabled
+1666364968829	Marionette	INFO	Listening on port 32965
+Read port: 32965
+WebDriver BiDi listening on ws://127.0.0.1:35769
+1666364968926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaevxux/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35769/devtools/browser/c204e000-b2fb-4398-8c71-b5cea0091c15
+1666365012307	Marionette	INFO	Stopped listening on port 32965
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666365044045	geckodriver	INFO	Listening on 127.0.0.1:56573
+1666365044094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexgL8mn"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1666365044597	Marionette	INFO	Marionette enabled
+1666365044601	Marionette	INFO	Listening on port 42217
+WebDriver BiDi listening on ws://127.0.0.1:39699
+Read port: 42217
+1666365044863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexgL8mn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39699/devtools/browser/ea170311-a195-4e04-a238-59d8f639578e
+1666365089836	Marionette	INFO	Stopped listening on port 42217
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
